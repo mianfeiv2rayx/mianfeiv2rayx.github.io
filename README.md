@@ -1,4 +1,4 @@
-# 免费V2rayX | 5月26日22.2M/S|免费VPN/Shadowrocket/SSR/V2ray/Clash免费节点链接地址  更新时间 2025-05-26 18:59:55
+# 免费V2rayX | 5月30日20.1M/S|免费VPN/Clash/SSR/Shadowrocket/V2ray免费节点链接地址  更新时间 2025-05-30 09:23:56
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://mianfeiv2rayx.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### Clash订阅链接
 
-- https://mianfeiv2rayx.github.io/uploads/2025/05/0-20250526.yaml
-- https://mianfeiv2rayx.github.io/uploads/2025/05/1-20250526.yaml
-- https://mianfeiv2rayx.github.io/uploads/2025/05/2-20250526.yaml
-- https://mianfeiv2rayx.github.io/uploads/2025/05/3-20250526.yaml
-- https://mianfeiv2rayx.github.io/uploads/2025/05/4-20250526.yaml
+- https://mianfeiv2rayx.github.io/uploads/2025/05/0-20250530.yaml
+- https://mianfeiv2rayx.github.io/uploads/2025/05/1-20250530.yaml
+- https://mianfeiv2rayx.github.io/uploads/2025/05/2-20250530.yaml
+- https://mianfeiv2rayx.github.io/uploads/2025/05/3-20250530.yaml
+- https://mianfeiv2rayx.github.io/uploads/2025/05/4-20250530.yaml
 
 ### V2ray订阅链接
 
-- https://mianfeiv2rayx.github.io/uploads/2025/05/0-20250526.txt
-- https://mianfeiv2rayx.github.io/uploads/2025/05/1-20250526.txt
-- https://mianfeiv2rayx.github.io/uploads/2025/05/2-20250526.txt
-- https://mianfeiv2rayx.github.io/uploads/2025/05/3-20250526.txt
-- https://mianfeiv2rayx.github.io/uploads/2025/05/4-20250526.txt
+- https://mianfeiv2rayx.github.io/uploads/2025/05/0-20250530.txt
+- https://mianfeiv2rayx.github.io/uploads/2025/05/1-20250530.txt
+- https://mianfeiv2rayx.github.io/uploads/2025/05/2-20250530.txt
+- https://mianfeiv2rayx.github.io/uploads/2025/05/3-20250530.txt
+- https://mianfeiv2rayx.github.io/uploads/2025/05/4-20250530.txt
 
 ### Sing-box订阅链接
 
-- https://mianfeiv2rayx.github.io/uploads/2025/05/20250526.json
+- https://mianfeiv2rayx.github.io/uploads/2025/05/20250530.json
 
 ## 更多clash节点订阅 ：
 
